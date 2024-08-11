@@ -1,6 +1,7 @@
 # INTERESSES
 
-# javascript 
-# backend e frontend
-# cibersecurity
-# IA 
+javascript 
+backend
+frontend
+cibersecurity
+IA 
