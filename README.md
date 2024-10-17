@@ -1,11 +1,11 @@
 # INTERESSES
 
-* ** javascript **
+* **javascript**
 ---
-* ** backend **
+* **backend**
 ---
-* ** frontend **
+* **frontend**
 ---
-* ** cibersecurity **
+* **cibersecurity**
 ---
-* ** IA **
+* **IA**
