@@ -1,4 +1,4 @@
-# INTERESSES : fire :
+# INTERESSES :fire:
 
 * **javascript**
 ---
